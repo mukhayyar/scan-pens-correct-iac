@@ -12,7 +12,7 @@ Sometimes, the network may route you to a specific internal node (e.g., iac22, i
 Usage
 
 🖥️ Windows
-1. Download or create the file check_hosts.bat.
+1. Download or create the file check.bat.
 2. Double-click the file to run it.
 3. Alternatively, open Command Prompt (cmd) in the folder and type:
 
@@ -27,11 +27,11 @@ Note: If you see a "Windows protected your PC" popup, click "More info" and then
 2. Open your terminal.
 3. Make the script executable:
 ```
-chmod +x check_hosts.sh
+chmod +x check.sh
 ```
 4. Run the script:
 ```
-./check_hosts.sh
+./check.sh
 ```
 
 ### Understanding the Output
